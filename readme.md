@@ -10,7 +10,7 @@ one for the administrators to control the input of the users
  ##Administrators Dashboard
 Allows administrators to change type of access for users (access as User or Administrator) , also to find out the list of registred users,,
 From this dashboard , administrators are able to answer the demands of the users with the right software choices.
-![Image](https://imgur.com/a/BOiDqku)
+![Image](https://i.imgur.com/P3VuzgJ.png)
 ##Technologies 
 #JEE
 We used for this project the java web application template .The components used for development are :
