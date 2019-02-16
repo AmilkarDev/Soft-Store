@@ -5,11 +5,12 @@ one for the administrators to control the input of the users
  needs in with detailed description . then the administrators will add to the platform the software/Hardware 
  needed for that specific demand.
  ## Users Dashboard
- Allows ushttps://i.imgur.com/K2n4eJW.png)
+ Allows users to fill in their software demends and question , also to find out the registred software added by administrators and demands of other users
+ ![Image](https://i.imgur.com/K2n4eJW.png)
  ##Administrators Dashboard
 Allows administrators to change type of access for users (access as User or Administrator) , also to find out the list of registred users,,
 From this dashboard , administrators are able to answer the demands of the users with the right software choices.
-![image](https://imgur.com/a/BOiDqku)
+![Image](https://imgur.com/a/BOiDqku)
 ##Technologies 
 #JEE
 We used for this project the java web application template .The components used for development are :
