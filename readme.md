@@ -14,7 +14,7 @@ From this dashboard , administrators are able to answer the demands of the users
 ## Technologies 
 # JEE
 We used for this project the java web application template .The components used for development are :
-* Servlets , JSP pages , Session Beans , Entity Beans , Java Beans besides the Java Persistene Api (JPA) *
+**Servlets , JSP pages , Session Beans , Entity Beans , Java Beans besides the Java Persistene Api (JPA)**
 ## Installing Application
 1. Create a new mysql database , name it store , and import the store.sql file 
 2. Add the store database to the project
