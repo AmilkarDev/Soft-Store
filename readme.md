@@ -5,8 +5,7 @@ one for the administrators to control the input of the users
  needs in with detailed description . then the administrators will add to the platform the software/Hardware 
  needed for that specific demand.
  ## Users Dashboard
- Allows users to fill in their demands , find out which software,Hardware choice is suitable for them , and update their acounts
- ![image](https://imgur.com/a/GtiNop2)
+ Allows ushttps://i.imgur.com/K2n4eJW.png)
  ##Administrators Dashboard
 Allows administrators to change type of access for users (access as User or Administrator) , also to find out the list of registred users,,
 From this dashboard , administrators are able to answer the demands of the users with the right software choices.
