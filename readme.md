@@ -29,6 +29,7 @@ From this dashboard , administrators are able to answer the demands of the users
 # JEE
 We used for this project the java web application template .The components used for development are :
 **Html , CSS , Bootstrap ,Servlets , JSP pages , Session Beans , Entity Beans , Java Beans besides the Java Persistene Api (JPA)**
+**Netbeans , GlassFish , DevServer 17**
 ![Image](https://i.imgur.com/1COg1Vn.png)
 
 ![Image](https://i.imgur.com/Xr1xbft.png)
