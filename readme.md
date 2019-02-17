@@ -11,10 +11,12 @@ one for the administrators to control the input of the users
 Allows administrators to change type of access for users (access as User or Administrator) , also to find out the list of registred users,,
 From this dashboard , administrators are able to answer the demands of the users with the right software choices.
 ![Image](https://i.imgur.com/P3VuzgJ.png)
+![Image](https://i.imgur.com/Xr1xbft.png)
 ## Technologies 
 # JEE
 We used for this project the java web application template .The components used for development are :
-**Servlets , JSP pages , Session Beans , Entity Beans , Java Beans besides the Java Persistene Api (JPA)**
+**Html , CSS , Bootstrap ,Servlets , JSP pages , Session Beans , Entity Beans , Java Beans besides the Java Persistene Api (JPA)**
+![Image](https://i.imgur.com/1COg1Vn.png)
 ## Installing Application
 1. Create a new mysql database , name it store , and import the store.sql file 
 2. Add the store database to the project
